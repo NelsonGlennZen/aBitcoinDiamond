@@ -1,11 +1,6 @@
 # Temp files
 *~
 
-# Databases
-btcd.db
-*-shm
-*-wal
-
 # Log files
 *.log
 
